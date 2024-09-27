@@ -1,0 +1,6 @@
+.main__chatbody {
+  flex-grow: 1;
+  background-color: #6897ac;
+  padding: 15px 20px;
+  display: flex;
+}

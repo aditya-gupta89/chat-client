@@ -1,0 +1,14 @@
+.navbar_container {
+  display: flex;
+  width: 100%;
+  height: 60px;
+  background-color: #30667e;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user_section {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
