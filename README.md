@@ -37,3 +37,6 @@ Before you begin, ensure you have the following installed:
    npm install
    npm start
    ```
+
+Frontend Repository:- https://github.com/aditya-gupta89/chat-client
+Backend Repository:- https://github.com/aditya-gupta89/Chat-backend
